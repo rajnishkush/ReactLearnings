@@ -1,1 +1,1 @@
-# ReactLearnings
+-> React is a front-end javascript library that is used to create dynamic single-page web application.
